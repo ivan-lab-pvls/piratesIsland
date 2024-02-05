@@ -13,15 +13,6 @@
 	<key>CFBundleIcons</key>
 	<dict>
 		<key>CFBundleAlternateIcons</key>
-	
-		<dict>
-   		 <key>icon5</key> <dict>
-        <key>CFBundleIconFiles</key>
-        <array>
-            <string>icon-120x120.png</string> </array>
-        <key>UIPrerenderedIcon</key>
-        <false/>
-    	</dict>
 			<key>icon1</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
@@ -70,7 +61,6 @@
 			<key>UIPrerenderedIcon</key>
 			<false/>
 		</dict>
-		<key>UINewsstandIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
@@ -159,7 +149,7 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.1.15</string>
+	<string>1.1.17</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSMicrophoneUsageDescription</key>
