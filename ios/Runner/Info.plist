@@ -13,6 +13,7 @@
 	<key>CFBundleIcons</key>
 	<dict>
 		<key>CFBundleAlternateIcons</key>
+	
 		<dict>
    		 <key>icon5</key> <dict>
         <key>CFBundleIconFiles</key>
@@ -21,8 +22,6 @@
         <key>UIPrerenderedIcon</key>
         <false/>
     	</dict>
-		</dict>
-		<dict>
 			<key>icon1</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
@@ -160,7 +159,7 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.1.14</string>
+	<string>1.1.13</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSMicrophoneUsageDescription</key>
