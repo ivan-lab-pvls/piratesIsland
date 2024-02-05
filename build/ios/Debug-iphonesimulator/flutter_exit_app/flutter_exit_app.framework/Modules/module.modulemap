@@ -1,0 +1,11 @@
+framework module flutter_exit_app {
+  umbrella header "flutter_exit_app-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flutter_exit_app.Swift {
+  header "flutter_exit_app-Swift.h"
+  requires objc
+}

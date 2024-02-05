@@ -1,0 +1,1 @@
+ /Users/ivanlabasok/Downloads/pirate-main/.dart_tool/flutter_build/624a9ecef7e6c62a13d4c06f202ad8d0/native_assets.yaml: 

@@ -1,0 +1,46 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "pirate",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "iPhone15",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "5E5E3C8B-FF0A-400C-AA19-49D9ECF6FCF1"
+        },
+        {
+            "name": "iPhoneSE",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "5D3CEFA0-8C0C-4B30-A0E8-D390264D4060"
+        },
+        {
+            "name": "iPad",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "4598ACEC-985A-462A-8313-8AA0CB399A4D"
+        },
+        {
+            "name": "pirate (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+        
+    ],
+    "compounds": [
+        {
+            "name": "All devices",
+            "configurations": [
+                "iPhone15","iPad","iPhoneSE"
+            ]
+        }
+    ]
+}

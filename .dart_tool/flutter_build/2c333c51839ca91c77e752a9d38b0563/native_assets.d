@@ -1,0 +1,1 @@
+ /Users/gnuao/GitHub/pirate/.dart_tool/flutter_build/2c333c51839ca91c77e752a9d38b0563/native_assets.yaml: 
