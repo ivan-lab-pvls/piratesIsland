@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/FirebaseCoreInternal.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		EV+qoY9L4diP/ypEJYuVUHlXnsw=
+		HgYyvBCmA8FwYrS7Wt6xL0XNCpY=
 		</data>
 		<key>Modules/FirebaseCoreInternal.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		aCuzhjmP3dr2Ad+eMG3mIkSA0Bw=
+		miS73SofzxGuRaet+7uNhv59oS0=
 		</data>
 		<key>Modules/FirebaseCoreInternal.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -81,22 +81,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EV+qoY9L4diP/ypEJYuVUHlXnsw=
+			HgYyvBCmA8FwYrS7Wt6xL0XNCpY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zwfu3+BzOnYX8YaZPXGSLnlWBbKWcMQj/V7vO8C0ttA=
+			xpAFRYAWcN8vgDIgxeAT8y+6UQmA1Dn5SwoPEr1EBnA=
 			</data>
 		</dict>
 		<key>Modules/FirebaseCoreInternal.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aCuzhjmP3dr2Ad+eMG3mIkSA0Bw=
+			miS73SofzxGuRaet+7uNhv59oS0=
 			</data>
 			<key>hash2</key>
 			<data>
-			o/0C1Nhr2aCQKDXdxcZmTIrp8kvkbQRRyopwGOiQXjc=
+			5x/9HmWKwZm2IvERqFkst7gbGm1A0nHIdYnNsn9l/2o=
 			</data>
 		</dict>
 		<key>Modules/FirebaseCoreInternal.swiftmodule/arm64-apple-ios-simulator.abi.json</key>

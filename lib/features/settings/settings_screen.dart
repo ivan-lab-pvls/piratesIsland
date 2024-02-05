@@ -110,61 +110,7 @@ class SettingsScreen extends StatelessWidget {
                                 })
                           ],
                         ),
-                        Row(
-                          children: [Text('App icon', style: smallTS)],
-                        ),
-                        Wrap(
-                          direction: Axis.horizontal,
-                          spacing: 10,
-                          runSpacing: 10,
-                          children: [
-                            ...List.generate(4, (index) {
-                              return GetBuilder(
-                                init: settingsController,
-                                builder: (_) {
-                                  return GestureDetector(
-                                    onTap: () {
-                                      if (settingsController.appIconIndex ==
-                                          index) {
-                                        null;
-                                      } else {
-                                        if (settingsController.vibro) {
-                                          Vibration.vibrate();
-                                        }
-                                        changeAppIcon(index);
-                                      }
-                                    },
-                                    child: Container(
-                                      width: 56,
-                                      height: 56,
-                                      padding: const EdgeInsets.all(3),
-                                      decoration: BoxDecoration(
-                                        border:
-                                            settingsController.appIconIndex ==
-                                                    index
-                                                ? Border.all(
-                                                    color: blueColor3, width: 4)
-                                                : null,
-                                        borderRadius: const BorderRadius.all(
-                                            Radius.circular(16)),
-                                        image: const DecorationImage(
-                                            image: AssetImage(
-                                                'assets/items/frame.png'),
-                                            fit: BoxFit.fill,
-                                            scale: 0.01,
-                                            alignment:
-                                                FractionalOffset.bottomLeft),
-                                      ),
-                                      child: Image.asset(
-                                          'assets/items/$index.png'),
-                                    ),
-                                  );
-                                },
-                              );
-                            })
-                          ],
-                        )
-                      ],
+                       ],
                     ),
                   ),
                 ],
